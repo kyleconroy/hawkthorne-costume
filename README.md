@@ -1,3 +1,1 @@
-# Costume Testing
-
-Test custom costumes for [Journey to the Center of Hawkthorne](https://github.com/kyleconroy/hawkthorne-journey)
+The master repository has moved to:  https://github.com/hawkthorne/hawkthorne-costume
